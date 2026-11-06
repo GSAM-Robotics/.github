@@ -1,6 +1,5 @@
 <div align="center">
-
-# GSAM Robotics
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:050505,50:1155B5,100:1F6FEB&text=GSAM%20Robotics&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Samuel Campelo"/>
 
 **Open-source robotics from the students of Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) – Campus Salvador**
 
